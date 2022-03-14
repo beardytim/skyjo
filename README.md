@@ -1,16 +1,7 @@
-# skyjo_scorecard
+# Skyjo Scorecard App
 
-A new Flutter project.
+A simple scorecard app for Skyjo game. You have to add at least two players then you can input scores after every round you play. Once a player scores over 100 the winner will be announced! Deployed as mobile app and also online via GitHub pages - [Click here to check it out!](https://beardytim.github.io/skyjo/)
 
-## Getting Started
+## To Do
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] save game option
